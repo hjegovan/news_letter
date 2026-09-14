@@ -164,6 +164,7 @@ OPENAI_EDITOR_MODEL=gpt-5.6-sol
 WEBSHARE_PROXY_USERNAME=your_webshare_username
 WEBSHARE_PROXY_PASSWORD=your_webshare_password
 ```
+for Webshare proxy please follow the advise provided in the [youtube-transcript-api repo](https://github.com/jdepoix/youtube-transcript-api#working-around-ip-bans-requestblocked-or-ipblocked-exception)
 
 Do not commit `.env` to GitHub.
 
